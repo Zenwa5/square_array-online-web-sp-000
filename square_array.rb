@@ -3,6 +3,5 @@ def square_array(array)
     number2 = []
     number**number
     number << number2
-
   end
 end
